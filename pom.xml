@@ -52,11 +52,6 @@
 			<artifactId>opencsv</artifactId>
 			<version>5.7.1</version>
 		</dependency>
-		<dependency>
-			<groupId>BDDSampleB1</groupId>
-			<artifactId>BDDSampleB1</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
   </dependencies>
   <build>
   <plugins>
